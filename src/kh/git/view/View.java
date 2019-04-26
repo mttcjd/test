@@ -15,6 +15,8 @@ public class View {
 
 	public void main() {
 		System.out.println("뷰에요.");
+		System.out.println("뷰에요.");
+		System.out.println("뷰에요.");
 
 	}
 
