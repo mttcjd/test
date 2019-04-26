@@ -2,8 +2,9 @@ package kh.git.view;
 
 public class View {
 
-
-	public void main() {
-		System.out.println("기본 구조");
+	public static void main(String[] args) {
+		System.out.println("테스트");
 	}
+
+
 }
