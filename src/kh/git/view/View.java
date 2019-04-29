@@ -6,6 +6,7 @@ public class View {
 	public void view(){
 
 		System.out.println("뷰에요.");
+		System.out.println("뷰에2323232요.");
 
 	}
 	public static void main(String[] args) {
