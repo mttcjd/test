@@ -21,6 +21,7 @@ public class View {
 		System.out.println("뷰에요.");
 		System.out.println("뷰에요.");
 		System.out.println("뷰에요.");
+		System.out.println("0429 21:41 추가");
 
 	}
 
